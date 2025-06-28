@@ -1,1 +1,5 @@
 .idea
+outputs
+debug.py
+*.ipynb
+.ipynb_checkpoints
